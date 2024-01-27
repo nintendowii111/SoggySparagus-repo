@@ -1,8 +1,8 @@
-Origin: (SoggySparagus-repo)
-Label: (SoggySparagus-repo)
+Origin: SoggySparagus-repo
+Label: SoggySparagus-repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: (SoggySparagus-repo)
+Description: SoggySparagus-repo
