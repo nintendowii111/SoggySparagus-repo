@@ -6,7 +6,7 @@ Description: A tweak that allows changing the gesture area to open the control c
 Maintainer: None <>
 Author: SoggySparagus <>
 Section: Tweaks
-Depends: None
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Filename: debs/com.ryannair05.controlchanger_0.0.2_iphoneos-arm64.deb
 Size: 7864000
 MD5sum: d0a7473c399165f4008300bbb67920bc
