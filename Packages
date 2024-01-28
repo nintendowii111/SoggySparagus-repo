@@ -4,7 +4,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm64
 Description: A tweak that allows changing the gesture area to open the control center
 Maintainer: None <>
-Author: SoggySparagus <>
+Author: nintendowii111 <>
 Section: Tweaks
 Depends: None
 Filename: /com.ryannair05.controlchanger_0.0.2_iphoneos-arm64.deb
